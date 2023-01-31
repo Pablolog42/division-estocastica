@@ -26,3 +26,5 @@ Como trabajo a futuro se propone comparar las propiedades de estas redes con las
 también describir matemáticamente cada modelo mediante ecuaciones de campo medio.
 
 Para mas información, contáctame a lsepulveda2019@udec.cl
+
+# nota: usar pip install networkx==2.7
